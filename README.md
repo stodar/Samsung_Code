@@ -2,7 +2,7 @@
 Samsung_Code
 ============
 
-With website you can apply to the secret codes without connaitres, only with a click.
+With this website you can get information, formatting your phone or something else with secret codes of Samsung but only with a click.
 
 ********************* DARDAR SAAD ****************************
 
