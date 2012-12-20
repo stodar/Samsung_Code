@@ -1,5 +1,5 @@
 ============
-Samsung_Code
+Samsung Code
 ============
 
 With this website you can get information, formatting your phone or something else with secret codes of Samsung (Android) but only with a click.
